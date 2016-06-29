@@ -9,3 +9,36 @@ As developers we strive to maximize our productivity by using tools that streaml
 ##Slides
 
 Slides are available on Speaker Deck
+
+##Resources
+
+[My dotfiles](https://github.com/Stratus3D/dotfiles) contain the configuration I use on a daily basis for all these things. They are available on GitHub at [Stratus3D/dotfiles](https://github.com/Stratus3D/dotfiles)
+
+####asdf
+
+The project: [https://github.com/asdf-vm/asdf](https://github.com/asdf-vm/asdf)
+
+Blog posts
+
+* http://stratus3d.com/blog/2015/11/27/introducing-asdf-the-extendable-version-manager
+* http://cazrin.net/blog/2016/my-favourite-version-management-tool/
+
+Similar tools
+
+* [https://nixos.org/nix/](https://nixos.org/nix/)
+
+####Zsh
+
+Project homepage: [http://www.zsh.org/](http://www.zsh.org/)
+
+Resources
+
+* [http://ohmyz.sh/](http://ohmyz.sh/)
+
+####Vim
+
+Project homepage: [http://www.vim.org/](http://www.vim.org/)
+
+####Tmux
+
+Project homepage: [https://tmux.github.io/](https://tmux.github.io/)
