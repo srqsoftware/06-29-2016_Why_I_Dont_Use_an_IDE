@@ -46,13 +46,14 @@ Project homepage: [http://www.vim.org/](http://www.vim.org/)
 
 Plugins
 
-* Vundle
-* CtrlP
-* NerdTree
-* Syntastic
-* vim-easytags
-* vim-gitgutter
-* vim-pencil
+* Vundle [https://github.com/VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+* CtrlP [https://github.com/kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
+* NerdTree [https://github.com/scrooloose/nerdtree](https://github.com/scrooloose/nerdtree)
+* Syntastic [https://github.com/scrooloose/syntastic](https://github.com/scrooloose/syntastic)
+* vim-easytags [https://github.com/xolox/vim-easytags](https://github.com/xolox/vim-easytags)
+* vim-gitgutter [https://github.com/airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+* vim-pencil [https://github.com/reedes/vim-pencil](https://github.com/reedes/vim-pencil)
+* Goyo [https://github.com/junegunn/goyo.vim](https://github.com/junegunn/goyo.vim)
 
 ####Tmux
 
