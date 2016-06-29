@@ -8,7 +8,7 @@ As developers we strive to maximize our productivity by using tools that streaml
 
 ##Slides
 
-Slides are available on Speaker Deck
+Slides are available on Speaker Deck.[https://speakerdeck.com/stratus3d/why-i-dont-use-an-ide](https://speakerdeck.com/stratus3d/why-i-dont-use-an-ide)
 
 ##Resources
 
@@ -20,8 +20,8 @@ The project: [https://github.com/asdf-vm/asdf](https://github.com/asdf-vm/asdf)
 
 Blog posts
 
-* http://stratus3d.com/blog/2015/11/27/introducing-asdf-the-extendable-version-manager
-* http://cazrin.net/blog/2016/my-favourite-version-management-tool/
+* [http://stratus3d.com/blog/2015/11/27/introducing-asdf-the-extendable-version-manager](http://stratus3d.com/blog/2015/11/27/introducing-asdf-the-extendable-version-manager)
+* [http://cazrin.net/blog/2016/my-favourite-version-management-tool/](http://cazrin.net/blog/2016/my-favourite-version-management-tool/)
 
 Similar tools
 
@@ -31,14 +31,31 @@ Similar tools
 
 Project homepage: [http://www.zsh.org/](http://www.zsh.org/)
 
-Resources
+Oh My Zsh: [http://ohmyz.sh/](http://ohmyz.sh/)
 
-* [http://ohmyz.sh/](http://ohmyz.sh/)
+My theme: [https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/blinks.zsh-theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/blinks.zsh-theme)
+
+Solarized Color Scheme
+
+* For Gnome: [http://ethanschoonover.com/solarized](http://ethanschoonover.com/solarized)
+* For iTerm2: [https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
 
 ####Vim
 
 Project homepage: [http://www.vim.org/](http://www.vim.org/)
 
+Plugins
+
+* Vundle
+* CtrlP
+* NerdTree
+* Syntastic
+* vim-easytags
+* vim-gitgutter
+* vim-pencil
+
 ####Tmux
 
 Project homepage: [https://tmux.github.io/](https://tmux.github.io/)
+
+Tmuxinator: [https://github.com/tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator)
